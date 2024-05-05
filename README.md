@@ -1,4 +1,4 @@
-# DA_projects
+# DATA ANALYSIS PROJECTS
 This is a repository containing some of my projects in data analysis.
 
 ## PROJECT 1: Sales Dashboard Project (EXCEL)
