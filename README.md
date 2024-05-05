@@ -6,4 +6,6 @@ PROJECT 1: Sales Dashboard Project (EXCEL)
 SKILLS UTILIZED: 
   1. Pivot tables and pivot charts
   2. Data cleaning and data validation techniques
-  3. Extract Transform load(ETL) - I loaded the data from an external source.
+  3. Extract Transform load(ETL) processes - I loaded the data from an external source.
+  4. Power querry for ETL processes
+  5. Slicers
