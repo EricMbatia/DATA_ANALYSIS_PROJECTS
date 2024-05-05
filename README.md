@@ -1,7 +1,7 @@
 # DA_projects
 This is a repository containing some of my projects in data analysis.
 
-##PROJECT 1: Sales Dashboard Project (EXCEL)
+## PROJECT 1: Sales Dashboard Project (EXCEL)
 -Given raw sales data from a bike store, I wanted uncover the patterns and answer questions that would provide more isights to the bike store owners. I wanted to answer questions such as:
   1. What is the average age of the customers making the purchases?
   2. What is the average income of the customers?
