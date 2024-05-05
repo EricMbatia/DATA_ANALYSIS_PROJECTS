@@ -7,6 +7,7 @@ This is a repository containing some of my projects in data analysis.
   2. What is the average income of the customers?
   3. What is the commuting distance from work of the customers making the bike purchases?
 - Therefore I made a sales dashboard from sample data aiming at providing useful insights on the factors influencing the sales of bikes from the bike store.
+
 SKILLS UTILIZED: 
   1. Pivot tables and pivot charts
   2. Data cleaning and data validation techniques
