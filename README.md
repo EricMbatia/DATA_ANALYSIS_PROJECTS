@@ -18,7 +18,7 @@ SKILLS UTILIZED:
 ## PROJECT 2: Data Analysis Project With (PYTHON)
 - The dataset contains data on a supermarket chain staore with three branches(A, B and C).
   
-###Research Problem:
+### Research Problem:
 
   The task here was to analyze the data using different data exploration techniques and thereafer give a summary and reccomendations on how best to improve the gross income in the different branches.
 My guiding questions:
